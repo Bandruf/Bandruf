@@ -9,3 +9,8 @@
 ### Top Languages 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandruf)](https://github.com/anuraghazra/github-readme-stats)
+
+### About Me
+
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Bandruf/github-profile-trophy)
