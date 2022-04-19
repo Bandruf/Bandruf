@@ -19,4 +19,4 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Bandruf)
+![](https://komarev.com/ghpvc/?username=Bandruf&color=green)
