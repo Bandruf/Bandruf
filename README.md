@@ -17,6 +17,6 @@
 
 ### Profile Stats
 
---
+---
 
 ![](https://komarev.com/ghpvc/?username=Bandruf)
