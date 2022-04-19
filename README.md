@@ -14,3 +14,7 @@
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Bandruf/github-profile-trophy)
+
+### Wakatime Week Stats
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bandruf)](https://github.com/anuraghazra/github-readme-stats)
