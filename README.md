@@ -14,3 +14,9 @@
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Bandruf/github-profile-trophy)
+
+### Profile Stats
+
+--
+
+![](https://komarev.com/ghpvc/?username=Bandruf)
